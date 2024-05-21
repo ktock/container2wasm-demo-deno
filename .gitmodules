@@ -1,0 +1,3 @@
+[submodule "docs/containers"]
+	path = docs/containers
+	url = https://github.com/ktock/example-images-deno.git
