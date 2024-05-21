@@ -4,6 +4,10 @@ Page: https://ktock.github.io/container2wasm-demo-deno/
 
 Demo page of running Deno on browser using [container2wasm](https://github.com/ktock/container2wasm).
 
+```
+c2w --build-arg VM_MEMORY_SIZE_MB=1800 denoland/deno:alpine-1.43.2 out.wasm
+```
+
 ## License
 
 Apache License Version 2.0.
